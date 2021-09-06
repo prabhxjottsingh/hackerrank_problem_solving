@@ -1,5 +1,3 @@
-Question Link:
-https://www.hackerrank.com/challenges/solve-me-first/problem
 
 #include <bits/stdc++.h>
 using namespace std;
